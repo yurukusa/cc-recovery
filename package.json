@@ -1,7 +1,7 @@
 {
   "name": "cc-recovery",
-  "version": "1.0.0",
-  "description": "How does Claude Code recover from errors? 71% self-fix rate. Track retry, investigate, fix, rollback, and pivot patterns across all your sessions.",
+  "version": "1.0.1",
+  "description": "How does Claude Code recover from errors? 99% self-recover rate. Track retry, investigate, fix, rollback, and pivot patterns across all your sessions.",
   "type": "module",
   "bin": {
     "cc-recovery": "./cli.mjs"
