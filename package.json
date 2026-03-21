@@ -1,6 +1,6 @@
 {
-  "name": "cc-recovery",
-  "version": "1.0.1",
+  "name": "@yurukusa/cc-recovery",
+  "version": "1.0.2",
   "description": "How does Claude Code recover from errors? 99% self-recover rate. Track retry, investigate, fix, rollback, and pivot patterns across all your sessions.",
   "type": "module",
   "bin": {
@@ -10,9 +10,18 @@
     "start": "node cli.mjs"
   },
   "keywords": [
-    "claude", "claude-code", "anthropic", "cli", "productivity",
-    "ai", "developer-tools", "session-analysis", "error-recovery", "debugging",
-    "self-healing", "resilience"
+    "claude",
+    "claude-code",
+    "anthropic",
+    "cli",
+    "productivity",
+    "ai",
+    "developer-tools",
+    "session-analysis",
+    "error-recovery",
+    "debugging",
+    "self-healing",
+    "resilience"
   ],
   "author": "yurukusa",
   "license": "MIT",

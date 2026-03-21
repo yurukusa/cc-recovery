@@ -57,3 +57,7 @@ Open [cc-recovery](https://yurukusa.github.io/cc-recovery/) and drop your `~/.cl
 ## Part of cc-toolkit
 
 [105 free tools for Claude Code](https://yurukusa.github.io/cc-toolkit/)
+
+### Want to optimize how Claude Code uses its tools?
+
+**[Claude Code Ops Kit](https://yurukusa.github.io/cc-ops-kit-landing/?utm_source=github&utm_medium=readme&utm_campaign=cc-recovery)** ($19) — 10 production hooks + 5 templates + 3 tools. Built from 160+ hours of autonomous operation.
